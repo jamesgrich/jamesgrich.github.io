@@ -1,6 +1,6 @@
 # Recent Projects
 
-## Project 1 (Java, SQL, Spring)
+## Project 1 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique velit sit amet tortor fringilla molestie. Nullam vel rhoncus massa. Quisque commodo nec arcu bibendum luctus. Phasellus pharetra consectetur risus at faucibus. Praesent ut odio ut eros dapibus pretium in id orci. Sed in ligula vitae leo dictum placerat venenatis nec risus. Cras vel suscipit tortor. Sed tempor venenatis lacus, id elementum urna luctus sed.
 
@@ -9,7 +9,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique velit s
 
 ---
 
-## Project 2 (Java, SQL, Spring)
+## Project 2
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique velit sit amet tortor fringilla molestie. Nullam vel rhoncus massa. Quisque commodo nec arcu bibendum luctus. Phasellus pharetra consectetur risus at faucibus. Praesent ut odio ut eros dapibus pretium in id orci. Sed in ligula vitae leo dictum placerat venenatis nec risus. Cras vel suscipit tortor. Sed tempor venenatis lacus, id elementum urna luctus sed.
 
@@ -17,7 +17,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique velit s
 
 ---
 
-## Project 3 (Java, SQL, Spring)
+## Project 3 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi tristique velit sit amet tortor fringilla molestie. Nullam vel rhoncus massa. Quisque commodo nec arcu bibendum luctus. Phasellus pharetra consectetur risus at faucibus. Praesent ut odio ut eros dapibus pretium in id orci. Sed in ligula vitae leo dictum placerat venenatis nec risus. Cras vel suscipit tortor. Sed tempor venenatis lacus, id elementum urna luctus sed.
 
